@@ -1,2 +1,2 @@
-# spoor
-Employee Tracking System
+# SPOOR
+Employee Tracking System in Flutter
